@@ -117,7 +117,7 @@ We are very happy if you are interested in contributing to Formbricks 🤗
 
 Here are a few options:
 
-- Star this repo.
+- Star this repository.
 - Create issues every time you feel something is missing or goes wrong.
 - Upvote issues with 👍 reaction so we know what's the demand for a particular issue to prioritize it within the roadmap.
 
